@@ -1,0 +1,13 @@
+{
+	"id": "test",
+	"name": "Test",
+	"testCases": {
+		"test.0.in": "test.0.out",
+		"test.1.in": "test.1.out"
+	},
+	"languages": [
+		"javascript",
+		"c",
+		"python"
+	]
+}
