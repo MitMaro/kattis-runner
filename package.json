@@ -1,6 +1,6 @@
 {
   "name": "@mitmaro/kattis",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Kattis problem runner",
   "main": "lib/main.js",
   "scripts": {
@@ -8,21 +8,21 @@
     "init": "node ./lib/main.js init -p tests",
     "run": "node ./lib/main.js run -p tests"
   },
-  "bin" : {
-    "kattis" : "./lib/main.js"
+  "bin": {
+    "kattis": "./lib/main.js"
   },
   "author": "Tim Oram <mitmaro@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "async": "^1.3.0",
+    "async": "^1.5.2",
     "chalk": "^1.1.1",
     "diff": "^2.2.1",
     "jsdiff": "^1.1.1",
     "jsonfile": "^2.2.1",
     "lodash": "^4.6.1",
-    "promptly": "^0.2.1",
+    "promptly": "^1.1.0",
     "touch": "^1.0.0",
-    "validator": "^4.0.5",
+    "validator": "^5.1.0",
     "yargs": "^4.3.2"
   }
 }
