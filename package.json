@@ -3,10 +3,14 @@
   "version": "0.0.4",
   "description": "A Kattis problem runner",
   "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "mitmaro/kattis-runner"
+  },
   "scripts": {
-    "test": "node ./lib/main.js run -p tests",
-    "init": "node ./lib/main.js init -p tests",
-    "run": "node ./lib/main.js run -p tests"
+    "test": "mocha test/**/*.js",
+    "test:coverage": "istanbul cover --print none _mocha -- test/**/*.js",
+    "test:ci": "eslint . && istanbul cover --print none --report lcovonly _mocha -- test/**/*.js && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "bin": {
     "kattis": "./lib/main.js"
@@ -24,5 +28,17 @@
     "touch": "^1.0.0",
     "validator": "^5.1.0",
     "yargs": "^4.3.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.8.0",
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
+    "mock-fs": "^3.8.0",
+    "mock-stdin": "^0.3.0",
+    "stream-buffers": "^3.0.0",
+    "traverse": "^0.6.6",
+    "vinyl": "^1.1.1",
+    "walk": "^2.3.9"
   }
 }

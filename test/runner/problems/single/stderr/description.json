@@ -1,0 +1,10 @@
+{
+	"id": "stderr",
+	"name": "Standard Error",
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"python"
+	]
+}

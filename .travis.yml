@@ -1,0 +1,11 @@
+sudo: false
+language: node_js
+addons:
+  apt:
+    packages:
+      php5-cli
+before_script:
+  - npm install coveralls
+node_js:
+  - "4"
+script: npm run test:ci

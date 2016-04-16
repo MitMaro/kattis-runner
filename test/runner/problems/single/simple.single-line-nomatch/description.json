@@ -1,0 +1,10 @@
+{
+	"id": "simple.single-line-nomatch",
+	"name": "simple.single-line-nomatch",
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"python"
+	]
+}

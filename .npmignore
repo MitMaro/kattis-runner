@@ -1,4 +1,10 @@
 build
+test
 tests
+coverage
+.eslintignore
 .eslintrc
+.gitignore
+.istanbul.yml
 .kattisrc
+.travis.yml

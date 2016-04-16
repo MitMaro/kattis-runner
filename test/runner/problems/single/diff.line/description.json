@@ -1,0 +1,13 @@
+{
+	"id": "diff.line",
+	"name": "Mock with line diff",
+	"diff": {
+		"type": "line"
+	},
+	"testCases": {
+		"diff.in": "diff.out"
+	},
+	"languages": [
+		"python"
+	]
+}

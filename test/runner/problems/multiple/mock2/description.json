@@ -1,0 +1,10 @@
+{
+	"id": "mock2",
+	"name": "Mock2",
+	"testCases": {
+		"mock2.in": "mock2.out"
+	},
+	"languages": [
+		"python"
+	]
+}

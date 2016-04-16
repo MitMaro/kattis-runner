@@ -1,0 +1,11 @@
+{
+	"id": "skip",
+	"skip": true,
+	"name": "Skip",
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"python"
+	]
+}

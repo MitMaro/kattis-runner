@@ -1,0 +1,10 @@
+{
+	"id": "invalid.name",
+	"name": "",
+	"testCases": {
+		"mock1.in": "mock1.out"
+	},
+	"languages": [
+		"python"
+	]
+}

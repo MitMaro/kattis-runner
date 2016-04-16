@@ -1,0 +1,20 @@
+instrumentation:
+  root: './lib'
+  include-all-sources: true
+  excludes:
+   - main.js
+   - commands/*.js
+   - languages/run-node.js
+reporting:
+  dir: ./coverage
+  watermarks:
+    statements: [80, 100]
+    lines: [80, 100]
+    functions: [80, 100]
+    branches: [80, 100]
+  reports:
+    - text
+    - html
+    - json
+  report-config:
+    json: {file: coverage.json}
