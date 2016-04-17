@@ -1,0 +1,13 @@
+{
+	"id": "diff.custom",
+	"name": "Mock with float diff",
+	"diff": {
+		"type": "custom"
+	},
+	"testCases": {
+		"diff.in": "diff.out"
+	},
+	"languages": [
+		"python"
+	]
+}

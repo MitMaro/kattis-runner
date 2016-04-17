@@ -1,0 +1,13 @@
+{
+	"id": "float.no-match-multiline",
+	"name": "Float Multiline Mismatch",
+	"diff": {
+		"type": "float"
+	},
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"python"
+	]
+}

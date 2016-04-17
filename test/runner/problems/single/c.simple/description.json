@@ -1,0 +1,10 @@
+{
+	"id": "c.simple",
+	"name": "Simple C Mock",
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"c"
+	]
+}

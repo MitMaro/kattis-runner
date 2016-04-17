@@ -1,0 +1,8 @@
+{
+	"id": "invalid.languages",
+	"name": "Mock With Invalid Languages",
+	"testCases": {
+		"mock1.in": "mock1.out"
+	},
+	"languages": ""
+}

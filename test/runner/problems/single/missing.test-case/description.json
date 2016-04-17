@@ -1,0 +1,10 @@
+{
+	"id": "missing.test-case",
+	"name": "Mock1",
+	"testCases": {
+		"missing.in": "missing.out"
+	},
+	"languages": [
+		"python"
+	]
+}

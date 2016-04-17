@@ -1,0 +1,10 @@
+{
+	"id": "errorcode",
+	"name": "Error Code",
+	"testCases": {
+		"simple.in": "simple.out"
+	},
+	"languages": [
+		"python"
+	]
+}

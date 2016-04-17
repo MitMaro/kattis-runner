@@ -1,4 +1,4 @@
 build
 coverage
 node_modules
-.kattisrc
+test/runner/problems

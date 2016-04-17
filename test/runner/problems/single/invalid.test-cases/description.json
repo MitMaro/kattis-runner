@@ -1,0 +1,8 @@
+{
+	"id": "invalid.test-cases",
+	"name": "Mock Invalid Test Cases",
+	"testCases": "",
+	"languages": [
+		"python"
+	]
+}

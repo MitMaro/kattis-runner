@@ -1,0 +1,10 @@
+{
+	"id": "invalid.test-case",
+	"name": "Invalid test case file",
+	"testCases": {
+		"missing.in": "missing.out"
+	},
+	"languages": [
+		"python"
+	]
+}
