@@ -2,6 +2,6 @@
   env:
     mocha: true
   rules:
+    no-control-regex: off
     max-nested-callbacks: off
     no-unused-expressions: off
-    
