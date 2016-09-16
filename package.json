@@ -22,7 +22,7 @@
     "chalk": "^1.1.1",
     "diff": "^2.2.1",
     "jsdiff": "^1.1.1",
-    "jsonfile": "^2.3.0",
+    "jsonfile": "^2.4.0",
     "lodash": "^4.6.1",
     "promptly": "^1.1.0",
     "touch": "^1.0.0",
