@@ -23,7 +23,7 @@
     "diff": "^2.2.1",
     "jsdiff": "^1.1.1",
     "jsonfile": "^2.3.0",
-    "lodash": "^4.6.1",
+    "lodash": "^4.16.1",
     "promptly": "^1.1.0",
     "touch": "^1.0.0",
     "validator": "^5.1.0",
