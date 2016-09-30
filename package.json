@@ -24,7 +24,7 @@
     "jsdiff": "^1.1.1",
     "jsonfile": "^2.3.0",
     "lodash": "^4.6.1",
-    "promptly": "^1.1.0",
+    "promptly": "^2.0.0",
     "touch": "^1.0.0",
     "validator": "^6.0.0",
     "yargs": "^4.6.0"
