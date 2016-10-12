@@ -18,7 +18,7 @@
   "author": "Tim Oram <mitmaro@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.0.0",
+    "async": "^2.1.1",
     "chalk": "^1.1.1",
     "diff": "^3.0.0",
     "jsdiff": "^1.1.1",
