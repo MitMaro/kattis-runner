@@ -38,7 +38,7 @@
     "mock-stdin": "^0.3.0",
     "stream-buffers": "^3.0.0",
     "traverse": "^0.6.6",
-    "vinyl": "^2.0.0",
+    "vinyl": "^2.0.1",
     "walk": "^2.3.9"
   }
 }
