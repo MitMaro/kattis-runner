@@ -34,7 +34,7 @@
     "eslint": "^3.1.1",
     "istanbul": "^0.4.3",
     "mocha": "^3.0.0",
-    "mock-fs": "^3.8.0",
+    "mock-fs": "^4.2.0",
     "mock-stdin": "^0.3.0",
     "stream-buffers": "^3.0.0",
     "traverse": "^0.6.6",
